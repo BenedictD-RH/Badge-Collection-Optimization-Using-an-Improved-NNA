@@ -1,0 +1,21 @@
+Mesagoza : 516,618 ; 10
+Cortondo Gym Badge : 352,623 ; 15
+Stony Cliff Badge : 667,582 ; 16
+Artazon Gym Badge : 735,611 ; 17
+Open Sky Badge : 208,515 ; 19
+Segin Star Badge : 376,473 ; 21
+Levincia Gym Badge : 803,476 ; 24
+Schedar Star Badge : 716,549 ; 27
+Lurking Steel Badge : 780,399 ; 28
+Cascarrafa Gym Badge : 371,434 ; 30
+Navi Star Badge : 636,370 ; 33
+Medali Gym Badge : 461,368 ; 36
+Montenevera Gym Badge : 573,231 ; 42
+Quaking Earth Badge : 236,439 ; 44
+Alfornada Gym Badge : 266,723 ; 45
+Glaseado Gym Badge : 592,282 ; 48
+Ruchbah Star Badge : 490,107 ; 51
+False Dragon Badge : 394,226 ; 55
+Caph Star Badge : 790,271 ; 56
+Poco Path Lighthouse : 547,743 ; 63
+=======================
