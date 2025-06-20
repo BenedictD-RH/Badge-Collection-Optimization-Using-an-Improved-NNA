@@ -15,16 +15,16 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/farrelathalla/Optimization-of-University-Timetabling-Using-CSP.git
-   cd Optimization-of-University-Timetabling-Using-CSP
+   git clone https://github.com/BenedictD-RH/Badge-Collection-Optimization-Using-an-Improved-NNA
+   cd Badge-Collection-Optimization-Using-an-Improved-NNA
    ```
    
 2. **Install dependencies:**
    ```bash
-   pip install ortools matplotlib networkx numpy
+   pip install matplotlib networkx shapely
    ```
 
 3. **Run the program:**
    ```bash
-   python csp.py
+   python findShortestCycle.py
    ```
